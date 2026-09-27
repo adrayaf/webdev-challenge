@@ -10,8 +10,7 @@ Kumpulan project belajar web development dari nol.
 |-----|---------|-----------|------|
 | 01 | Profile Card | [Demo](https://adrayaf.github.io/css-day-01-profile-card) | [Repo](https://github.com/adrayaf/css-day-01-profile-card) |
 | 02 | Pricing Card | [Demo](https://adrayaf.github.io/css-day-02-pricing-card) | [Repo](https://github.com/adrayaf/css-day-02-pricing-card) |
-| 03 | Button Collection | - | - |
-| ... | ... | ... | ... |
+| 03 | Button Collection | [Demo](https://adrayaf.github.io/css-day-03-button-collection) | [Repo](https://github.com/adrayaf/css-day-03-button-collection) 
 
 ### 📄 HTML Challenge (30 Hari)
 (coming soon)
