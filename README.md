@@ -22,7 +22,7 @@ Kumpulan project belajar web development dari nol.
 
 ## 📊 Progress
 
-- ✅ CSS: 2/30
+- ✅ CSS: 4/30
 - ⏳ HTML: 0/30
 - ⏳ JS: 0/30
 
